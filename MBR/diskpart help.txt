@@ -1,0 +1,13 @@
+due to the nature of the command prompt im gonna need you highlight everything and copy it then press right click on the cmd window
+
+sel dis 0 
+clean
+conv mbr
+cre par pri size=512
+form fs=ntfs
+ass letter w
+active
+cre par pri
+form quick
+ass letter z
+exit

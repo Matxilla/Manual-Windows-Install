@@ -1,0 +1,12 @@
+due to the nature of the command prompt im gonna need you highlight everything and copy it then press right click on the cmd window
+
+sel dis 0
+clean
+conv gpt
+cre par efi size=512
+form fs=fat32 
+ass letter w
+cre par pri
+form quick
+ass letter z
+exit 
